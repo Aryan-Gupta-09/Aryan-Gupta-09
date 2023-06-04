@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Aryan Gupta
 - 👀 I’m interested in Data Analysis & Business Intelligence
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me ag189030@gmail.com
 
 <!---
